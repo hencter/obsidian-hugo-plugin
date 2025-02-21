@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "hugo-plugin",
+	"name": "Hugo Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Obsidian with content manager & configure for hugo",
 	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"authorUrl": "https://hencte.top",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
